@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Courgette', cursive
+    /*font-family: 'Courgette', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Sacramento', cursive;
+ <img class="MyImage" src="images/Gaurav.jpeg" alt="my-Image">
+ */
+}
+
+.Technical {
+  font-size: 2em;
+  color: #006a71;
+  font-weight: normal;
+}
+
+h1 {
+  line-height: 2;
+  margin-top: 0;
+  font-size: 5em;
+  color: #006a71;
+  font-family: 'Sacramento', cursive;
+}
+
+.topContainer {
+  background-color: #ccf6c8;
+  position: relative;
+  padding-top: 100px;
+}
+
+.TopCloud {
+  position: absolute;
+  right: 500px;
+  top: 50px;
+}
+
+.MyImage {
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  float: left;
+}
+
+.mountain {
+  width: 500px;
+}
+
+.middle-container {
+  background-color: #fafcc2;
+}
+
+.contact-me {
+  background-color: #f6d6ad;
+}
+
+.bottom-container {
+  background-color: #f9c0c0;
+}
+
+.BottomCloud {
+  position: absolute;
+  right: 100px;
+}
